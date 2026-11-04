@@ -1,0 +1,126 @@
+[
+  {
+    "file": "data/Figure_03.csv",
+    "rows": 107,
+    "blocks": {
+      "subbasin_ET_comparison": 68,
+      "basin_annual_ET": 39
+    }
+  },
+  {
+    "file": "data/Figure_04.csv",
+    "rows": 306,
+    "blocks": {
+      "annual_series": 234,
+      "monthly_climatology": 72
+    }
+  },
+  {
+    "file": "data/Figure_05.csv",
+    "rows": 29964,
+    "blocks": {
+      "wavelet_summary": 12,
+      "wavelet_grid": 29952
+    }
+  },
+  {
+    "file": "data/Figure_06.csv",
+    "rows": 204,
+    "blocks": {
+      "subbasin_means_trends": 68,
+      "trend_display_diagnostics": 136
+    }
+  },
+  {
+    "file": "data/Figure_07.csv",
+    "rows": 73,
+    "blocks": {
+      "PT_response_nodes": 49,
+      "GCM_SSP_projection_points": 24
+    }
+  },
+  {
+    "file": "data/Figure_08.csv",
+    "rows": 272,
+    "blocks": {
+      "PT_corner_response": 272
+    }
+  },
+  {
+    "file": "data/Figure_09.csv",
+    "rows": 204,
+    "blocks": {
+      "response_coefficients": 68,
+      "fit_R_squared": 136
+    }
+  },
+  {
+    "file": "data/Figure_10.csv",
+    "rows": 42,
+    "blocks": {
+      "landuse_responses": 42
+    }
+  },
+  {
+    "file": "data/Figure_11.csv",
+    "rows": 726,
+    "blocks": {
+      "future_ensemble_series": 720,
+      "historical_reference": 6
+    }
+  },
+  {
+    "file": "data/Figure_12.csv",
+    "rows": 272,
+    "blocks": {
+      "future_subbasin_response": 272
+    }
+  },
+  {
+    "file": "data/Figure_13.csv",
+    "rows": 1180,
+    "blocks": {
+      "matched_outcomes": 1008,
+      "basin_absolute_summary": 4,
+      "interaction_summary": 168
+    }
+  },
+  {
+    "file": "data/Figure_14.csv",
+    "rows": 1180,
+    "blocks": {
+      "matched_outcomes": 1008,
+      "basin_absolute_summary": 4,
+      "interaction_summary": 168
+    }
+  },
+  {
+    "file": "data/Figure_16.csv",
+    "rows": 408,
+    "blocks": {
+      "GWSC_panel_values": 408
+    }
+  },
+  {
+    "file": "data/Figure_15.csv",
+    "rows": 408,
+    "blocks": {
+      "BWSC_panel_values": 408
+    }
+  },
+  {
+    "file": "data/Figure_01.csv",
+    "rows": 351,
+    "scope": "point coordinates and subbasin index, no raster or polygon geometry"
+  },
+  {
+    "file": "data/Figure_02_simulated.csv",
+    "rows": 2808,
+    "scope": "no observed monthly streamflow"
+  },
+  {
+    "file": "data/Figure_02_metrics.csv",
+    "rows": 12,
+    "scope": "no observed monthly streamflow"
+  }
+]
