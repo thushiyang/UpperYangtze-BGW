@@ -1,7 +1,5 @@
 # Upper Yangtze blue–green water: source data
 
-Source data and supporting scripts for *Hydroclimatic background regulates blue–green water responses to climate and land-use change in the Upper Yangtze River Basin*.
-
 This repository provides numerical data for Figures 1–16, scenario definitions, basic model settings, and calculation scripts.
 
 ## Contents
