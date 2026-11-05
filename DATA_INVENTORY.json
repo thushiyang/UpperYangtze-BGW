@@ -37,7 +37,12 @@
     "blocks": {
       "PT_response_nodes": 49,
       "GCM_SSP_projection_points": 24
-    }
+    },
+    "source_project_relative": "06_results/figure_source_data_package_R02_20261104/simple_reading/Figure_07/Figure_07_values.csv",
+    "source_sha256": "c320b27025435f4c0a09cefc315ba83d62b5cd9e08e466b53ac6bbbbf6aa7fac",
+    "sha256": "8953a059e00b0f1d5edb469e03fd1e4a23bbc33354c869eec86228efed12364e",
+    "historical_window": "1982-2020",
+    "future_window": "2021-2050"
   },
   {
     "file": "data/Figure_08.csv",
